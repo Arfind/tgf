@@ -4,9 +4,9 @@ import (
 	"context"
 	"github.com/rs/cors"
 	"github.com/smallnest/rpcx/client"
-	"github.com/thkhxm/tgf"
-	"github.com/thkhxm/tgf/exp/admin"
-	"github.com/thkhxm/tgf/log"
+	"github.com/Arfind/tgf"
+	"github.com/Arfind/tgf/exp/admin"
+	"github.com/Arfind/tgf/log"
 	"net/http"
 	"time"
 )
