@@ -2,9 +2,9 @@ package component
 
 import (
 	"github.com/cornelk/hashmap"
-	"github.com/thkhxm/tgf/db"
-	"github.com/thkhxm/tgf/log"
-	"github.com/thkhxm/tgf/util"
+	"github.com/Arfind/tgf/db"
+	"github.com/Arfind/tgf/log"
+	"github.com/Arfind/tgf/util"
 	"io"
 	"os"
 	"path/filepath"
