@@ -3,7 +3,7 @@ package internal
 import (
 	"github.com/rpcxio/rpcx-consul/client"
 	"github.com/smallnest/rpcx/server"
-	"github.com/thkhxm/tgf/log"
+	"github.com/Arfind/tgf/log"
 )
 
 //***************************************************
