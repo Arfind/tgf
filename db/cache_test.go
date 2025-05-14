@@ -2,7 +2,7 @@ package db_test
 
 import (
 	"fmt"
-	"github.com/thkhxm/tgf/db"
+	"github.com/Arfind/tgf/db"
 	"reflect"
 	"testing"
 	"time"
