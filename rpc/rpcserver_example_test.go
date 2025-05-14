@@ -1,6 +1,6 @@
 package rpc_test
 
-import "github.com/thkhxm/tgf/rpc"
+import "github.com/Arfind/tgf/rpc"
 
 //***************************************************
 //@Link  https://github.com/thkhxm/tgf
