@@ -5,8 +5,8 @@ import (
 	"errors"
 	"github.com/bsm/redislock"
 	"github.com/redis/go-redis/v9"
-	"github.com/thkhxm/tgf"
-	"github.com/thkhxm/tgf/log"
+	"github.com/Arfind/tgf"
+	"github.com/Arfind/tgf/log"
 	"strings"
 	"time"
 )
