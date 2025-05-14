@@ -3,8 +3,8 @@ package rpc
 import (
 	"github.com/smallnest/rpcx/client"
 	"github.com/smallnest/rpcx/share"
-	"github.com/thkhxm/tgf"
-	"github.com/thkhxm/tgf/log"
+	"github.com/Arfind/tgf"
+	"github.com/Arfind/tgf/log"
 	"golang.org/x/net/context"
 	"reflect"
 )
