@@ -3,7 +3,7 @@ package util_test
 import (
 	"fmt"
 	"github.com/cornelk/hashmap"
-	"github.com/thkhxm/tgf/util"
+	"github.com/Arfind/tgf/util"
 	"sync"
 	"testing"
 )
