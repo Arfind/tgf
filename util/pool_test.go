@@ -1,7 +1,7 @@
 package util_test
 
 import (
-	"github.com/thkhxm/tgf/util"
+	"github.com/Arfind/tgf/util"
 	"sync"
 	"testing"
 )
