@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 	"github.com/joho/godotenv"
-	"github.com/thkhxm/tgf/util"
+	"github.com/Arfind/tgf/util"
 
 	"os"
 	"strings"
