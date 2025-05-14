@@ -6,7 +6,7 @@
 // @Ref  https://www.cnblogs.com/stulzq/p/16741844.html
 package log
 
-import "github.com/thkhxm/tgf"
+import "github.com/Arfind/tgf"
 
 //***************************************************
 //@Link  https://github.com/thkhxm/tgf
