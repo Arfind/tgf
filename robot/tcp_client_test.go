@@ -1,7 +1,7 @@
 package robot_test
 
 import (
-	"github.com/thkhxm/tgf/robot"
+	"github.com/Arfind/tgf/robot"
 	"testing"
 )
 
