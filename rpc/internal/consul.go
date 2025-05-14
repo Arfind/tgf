@@ -8,8 +8,8 @@ import (
 	"github.com/rpcxio/rpcx-consul/client"
 	"github.com/rpcxio/rpcx-consul/serverplugin"
 	"github.com/smallnest/rpcx/server"
-	"github.com/thkhxm/tgf"
-	"github.com/thkhxm/tgf/log"
+	"github.com/Arfind/tgf"
+	"github.com/Arfind/tgf/log"
 	"time"
 )
 
