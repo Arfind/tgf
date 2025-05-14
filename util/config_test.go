@@ -1,10 +1,10 @@
 package util_test
 
 import (
-	"github.com/thkhxm/tgf"
-	"github.com/thkhxm/tgf/component"
-	"github.com/thkhxm/tgf/db"
-	"github.com/thkhxm/tgf/util"
+	"github.com/Arfind/tgf"
+	"github.com/Arfind/tgf/component"
+	"github.com/Arfind/tgf/db"
+	"github.com/Arfind/tgf/util"
 	"testing"
 )
 
