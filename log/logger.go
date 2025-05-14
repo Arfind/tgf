@@ -2,7 +2,7 @@ package log
 
 import (
 	"fmt"
-	"github.com/thkhxm/tgf"
+	"github.com/Arfind/tgf"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"gopkg.in/natefinch/lumberjack.v2"
