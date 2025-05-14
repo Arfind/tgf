@@ -1,4 +1,4 @@
-module github.com/thkhxm/tgf
+module github.com/Arfind/tgf
 
 go 1.23.4
 
