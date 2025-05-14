@@ -5,9 +5,9 @@
 package rpc
 
 import (
-	"github.com/thkhxm/tgf"
-	"github.com/thkhxm/tgf/log"
-	"github.com/thkhxm/tgf/util"
+	"github.com/Arfind/tgf"
+	"github.com/Arfind/tgf/log"
+	"github.com/Arfind/tgf/util"
 )
 
 //***************************************************
